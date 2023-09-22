@@ -616,7 +616,7 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 768px) {
   #fh5co-main .fh5co-lead,
   .fh5co-section .fh5co-lead {
-    font-size: 22px;
+    font-size: 16px;
     line-height: 34px;
   }
 }
